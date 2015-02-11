@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-martini/martini"
+	"github.com/isdamir/martini"
 )
 
 type Greeting struct {
